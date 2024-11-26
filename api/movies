@@ -1,2 +1,2 @@
-/api/movies
+/api/movies?filterType=star&filterValue=小野夕子&magnet=exist
 #/api/movies?filterType=star&filterValue=rsv&magnet=all
